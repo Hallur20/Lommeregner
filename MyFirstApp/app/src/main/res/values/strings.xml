@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My First App</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="button_send">Send</string>
+    <string name="num1">Choose Number</string>
+    <string name="num2">Choose Number</string>
+    <string name="button_plus">+</string>
+    <string name="button_minus">-</string>
+    <string name="button_multiply">*</string>
+    <string name="button_back">Back</string>
+</resources>
